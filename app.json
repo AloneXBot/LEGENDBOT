@@ -1,13 +1,13 @@
 {
-  "name": "Lêɠêɳ̃dẞο†",
-  "description": "LegendBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://telegra.ph/file/ac9bd7bcdac984dd407b2.jpg",
+  "name": "ALONEẞο†",
+  "description": "AloneBot is one of the best userbot on telegram based on telethon & python",
+  "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
   "keywords": [
     "plugin",
     "legendbot",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT",
+  "repository": "https://github.com/AloneXBot/LEGENDBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -17,7 +17,7 @@
     },
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "Alone"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
